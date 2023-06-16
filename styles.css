@@ -4,14 +4,14 @@
 	background-color: skyblue;
 	text-align: justify;
 }
-h1 
+.fp 
 {
 	background-color: black;
 	color: white;
 }
 li:first-child,li:last-child
 {
-	background-color: white;
+	background-color: rgb(255,255,255);
 }
 li:nth-child(2),li:nth-child(4)
 {
